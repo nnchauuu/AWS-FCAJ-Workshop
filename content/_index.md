@@ -26,7 +26,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2025 to 12/07/2025
 
-<img src="/images/hinhdaidien.jpg?v=20260709" alt="Your profile picture" style="width: auto;max-width: 32%;height: auto;border-radius: 6px;">
+![Your profile picture](/images/hinhdaidien-small.jpg?v=20260709)
 ### Report Content
 
 1.  [Worklog](1-Worklog/)

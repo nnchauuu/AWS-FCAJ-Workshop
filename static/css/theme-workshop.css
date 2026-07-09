@@ -226,3 +226,10 @@ div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
 }
+
+img[src*="hinhdaidien-small"] {
+  width: 120px;
+  max-width: 120px;
+  height: auto;
+  border-radius: 6px;
+}
