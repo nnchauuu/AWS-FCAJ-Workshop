@@ -227,9 +227,9 @@ div.notices.info p {
   background: #fff2db;
 }
 
-img[src*="hinhdaidien-small"] {
-  width: 320px;
-  max-width: 320px;
+img[src*="hinhdaidien"] {
+  width: 460px !important;
+  max-width: min(460px, 100%) !important;
   height: auto;
   border-radius: 6px;
 }
