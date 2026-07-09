@@ -228,8 +228,8 @@ div.notices.info p {
 }
 
 img[src*="hinhdaidien-small"] {
-  width: 220px;
-  max-width: 220px;
+  width: 320px;
+  max-width: 320px;
   height: auto;
   border-radius: 6px;
 }
