@@ -9,25 +9,25 @@ pre: " <b> 1.4. </b> "
 
 ### Week 4 Objectives:
 
-* Learn the basic concepts of Amazon Elastic Compute Cloud (EC2).
-* Understand how to create and configure EC2 virtual servers on AWS.
-* Understand how to use Security Groups to control access to EC2.
-* Learn how to grant application permissions using IAM Roles for EC2.
+* Learn about Amazon Elastic Compute Cloud (EC2).
+* Understand how to create and configure virtual servers on AWS.
+* Learn how to use Security Groups to control access.
+* Understand the role of IAM Roles in granting permissions to EC2.
 
 ### Tasks to be completed this week:
 
-| Day       | Tasks                                                                                                                                            | Start Date | Completion Date | References                           |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ------------------------------------ |
-| Monday    | - Learned the basic concepts of Amazon EC2. <br> - Studied concepts such as instance, AMI, key pair, instance type, and security group.          | 11/05/2026 | 11/05/2026      | https://000004.awsstudygroup.com/vi/ |
-| Tuesday   | - Practiced creating an EC2 Instance on AWS. <br> - Connected to the virtual server and checked the operating status of the instance.            | 12/05/2026 | 12/05/2026      | https://000004.awsstudygroup.com/vi/ |
-| Wednesday | - Learned how to configure inbound rules and outbound rules for EC2. <br> - Tested application access through the appropriate port.              | 13/05/2026 | 13/05/2026      | https://000004.awsstudygroup.com/vi/ |
-| Thursday  | - Studied IAM Roles for EC2 to grant permissions to applications running on virtual servers. <br> - Compared the use of IAM Role and Access Key. | 14/05/2026 | 14/05/2026      | https://000004.awsstudygroup.com/vi/ |
-| Friday    | - Practiced attaching an IAM Role to an EC2 Instance.                                                                                            | 15/05/2026 | 15/05/2026      | https://000004.awsstudygroup.com/vi/ |
+| Day | Task                                                                                                                                                                                                                         | Start Date | Completion Date | Learning Resource                    |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------ |
+| 2   | - Learn the basic concepts of Amazon EC2. <br>   + Instance. <br>   + AMI. <br>   + Key pair. <br>   + Instance type. <br>   + Security Group.                                                                               | 11/05/2026 | 11/05/2026      | https://000004.awsstudygroup.com/vi/ |
+| 3   | - Practice creating an EC2 Instance. <br>   + Select a suitable AMI. <br>   + Choose an instance type. <br>   + Create or select a key pair. <br>   + Launch the virtual server. <br>   + Check the instance running status. | 12/05/2026 | 12/05/2026      | https://000004.awsstudygroup.com/vi/ |
+| 4   | - Learn how to configure Security Groups for EC2. <br>   + Inbound rule. <br>   + Outbound rule. <br>   + Open the required ports for the application. <br>   + Test access to the EC2 Instance.                             | 13/05/2026 | 13/05/2026      | https://000004.awsstudygroup.com/vi/ |
+| 5   | - Learn about IAM Roles for EC2. <br>   + The purpose of IAM Roles. <br>   + How to grant permissions to applications running on EC2. <br>   + Differences between IAM Role and Access Key.                                  | 14/05/2026 | 14/05/2026      | https://000004.awsstudygroup.com/vi/ |
+| 6   | - Practice attaching an IAM Role to an EC2 Instance. <br>   + Create a suitable IAM Role. <br>   + Attach the role to EC2. <br>   + Check the instance access permissions. <br>   + Evaluate the configuration result.       | 15/05/2026 | 15/05/2026      | https://000004.awsstudygroup.com/vi/ |
 
 ### Week 4 Results:
 
 * Understood the role of Amazon EC2 in providing virtual servers on AWS.
-* Learned the basic components when creating EC2, such as AMI, instance type, key pair, and security group.
-* Learned how to configure Security Groups to open the required ports for applications.
-* Understood how to use IAM Role to grant permissions to EC2 instead of using Access Keys directly.
+* Learned key components when creating EC2, such as AMI, instance type, key pair, and security group.
+* Learned how to configure Security Groups to open required ports.
+* Understood how to use IAM Roles to grant permissions to EC2.
 * Practiced creating an EC2 Instance and attaching an IAM Role to the virtual server.

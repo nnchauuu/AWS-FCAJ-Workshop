@@ -9,25 +9,26 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Objectives:
 
-* Learn about AWS CLI and how to manage AWS resources using the command line.
-* Understand how to configure access key, secret key, region, and output format.
+* Learn about AWS Command Line Interface (AWS CLI).
+* Understand how to configure AWS access information using the command line.
 * Practice basic commands with EC2, S3, and IAM.
-* Review previously learned AWS services and prepare the project development direction.
+* Review the AWS services learned in previous weeks.
+* Start discussing the direction for the final project.
 
 ### Tasks to be completed this week:
 
-| Day       | Tasks                                                                                                                                                                             | Start Date | Completion Date | References                           |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------ |
-| Monday    | - Learned about AWS CLI and its role in managing AWS resources through the command line. <br> - Installed AWS CLI and checked its version.                                        | 08/06/2026 | 08/06/2026      | https://000011.awsstudygroup.com/vi/ |
-| Tuesday   | - Configured AWS CLI using access key, secret key, region, and output format. <br> - Practiced checking the configuration with basic commands.                                    | 09/06/2026 | 09/06/2026      | https://000011.awsstudygroup.com/vi/ |
-| Wednesday | - Practiced using AWS CLI to check created resources. <br> - Executed several basic commands with EC2, S3, and IAM.                                                               | 10/06/2026 | 10/06/2026      | https://000011.awsstudygroup.com/vi/ |
-| Thursday  | - Reviewed previously learned AWS services, including IAM, VPC, EC2, S3, RDS, Auto Scaling, CloudWatch, and AWS CLI. <br> - Documented the role of each service in a real system. | 11/06/2026 | 11/06/2026      |                                      |
-| Friday    | - Discussed with team members to prepare the project development direction. <br> - Identified features that could apply AWS services in a real project.                           | 12/06/2026 | 12/06/2026      |                                      |
+| Day | Task                                                                                                                                                                                                                                                                                | Start Date | Completion Date | Learning Resource                    |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------ |
+| 2   | - Learn the overview of AWS CLI. <br>   + The role of AWS CLI. <br>   + How to manage AWS resources using the command line. <br>   + Install AWS CLI. <br>   + Check the version after installation.                                                                                | 08/06/2026 | 08/06/2026      | https://000011.awsstudygroup.com/vi/ |
+| 3   | - Practice configuring AWS CLI. <br>   + Access key. <br>   + Secret key. <br>   + Default region. <br>   + Output format. <br>   + Verify the configuration after setup.                                                                                                           | 09/06/2026 | 09/06/2026      | https://000011.awsstudygroup.com/vi/ |
+| 4   | - Practice managing AWS resources with CLI. <br>   + Check the list of EC2 Instances. <br>   + Check S3 buckets. <br>   + View basic IAM information. <br>   + Take notes on commonly used commands.                                                                                | 10/06/2026 | 10/06/2026      | https://000011.awsstudygroup.com/vi/ |
+| 5   | - Review the AWS services learned in previous weeks. <br>   + IAM. <br>   + VPC. <br>   + EC2. <br>   + S3. <br>   + RDS. <br>   + Auto Scaling. <br>   + CloudWatch. <br>   + AWS CLI.                                                                                             | 11/06/2026 | 11/06/2026      | Self-summary                         |
+| 6   | - Discuss the direction for the final project. <br>   + Exchange project ideas with team members. <br>   + Identify features that can apply AWS services. <br>   + Take notes on suitable AWS services for the project. <br>   + Prepare the research direction for the next phase. | 12/06/2026 | 12/06/2026      | Self-summary                         |
 
 ### Week 8 Results:
 
-* Understood the role of AWS CLI in managing AWS resources using command-line operations.
+* Understood the role of AWS CLI in managing AWS resources.
 * Learned how to install and configure AWS CLI.
-* Practiced several basic commands with EC2, S3, and IAM.
+* Practiced basic commands with EC2, S3, and IAM.
 * Reviewed the AWS services learned in previous weeks.
-* Started discussing and defining the research direction for the project.
+* Started identifying the research and development direction for the final project.
