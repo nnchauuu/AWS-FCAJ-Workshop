@@ -8,7 +8,7 @@ chapter: false
     
 # Internship Report
 ### Student Information:
-&emsp; **Full Name:** Nguyễn Ngọc Châu
+&emsp; **Full Name:** Nguyen Ngoc Chau
 
 &emsp; **Phone Number:** 0327048045 
 
